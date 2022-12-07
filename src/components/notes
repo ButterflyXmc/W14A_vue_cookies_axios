@@ -1,0 +1,14 @@
+// Random NOTES
+
+// (-g) means its a global installation
+
+ 
+// npm version we're working with 
+// 8.19.2
+// to check run -> npm--version
+
+
+//.then((response) => {})
+//.catch((error) => {});
+//the reason we're using the arrow fucntion is cause they do not chnage the contect for this. and makes us able to interact with the function.
+
